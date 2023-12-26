@@ -22,7 +22,7 @@ public class MainFrame extends JFrame {
         return display;
     }
 
-    public HistogramDisplay HistogramDisplay() {
+    public HistogramDisplay histogramDisplay() {
         return histogramDisplay;
     }
 }
